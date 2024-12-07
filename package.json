@@ -14,7 +14,7 @@
     "time-tracking",
     "time-tracking-app",
     "time-tracking-tool",
-    "react-time-tracker",
+    "react-time-tracker"
   ],
   "private": false,
   "dependencies": {
