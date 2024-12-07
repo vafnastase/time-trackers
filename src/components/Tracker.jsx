@@ -1,5 +1,5 @@
-export const Tracker = (props) => {
-  console.log(props.tracker);
+export const Tracker = ({tracker}, props) => {
+  console.log(tracker);
   return (
     <div {...props}>
       {props.children}
