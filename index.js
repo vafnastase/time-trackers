@@ -4,7 +4,7 @@ import { Tracker } from './src/components/Tracker';
 import { AddTrackerButton } from './src/components/AddTrackerButton';
 import { TrackersList } from './src/components/TrackersList';
 
-export default {
+export {
   TimeTrackersProvider,
   useTimeTrackers,
   Tracker,
