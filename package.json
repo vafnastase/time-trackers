@@ -1,6 +1,6 @@
 {
   "name": "gnhub-time-trackers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add time trackers to your projects and start building your own time tracking app.",
   "main": "index.js",
   "repository": "https://github.com/vafnastase/time-trackers.git",
