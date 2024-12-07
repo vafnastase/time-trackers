@@ -1,6 +1,6 @@
 {
   "name": "time-trackers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a time tracking tool for your react app.",
   "main": "index.js",
   "repository": "https://github.com/vafnastase/time-trackers.git",
