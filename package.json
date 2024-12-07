@@ -1,0 +1,10 @@
+{
+  "name": "time-trackers",
+  "version": "1.0.0",
+  "description": "This is a time tracking tool for your react app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": false
+}
