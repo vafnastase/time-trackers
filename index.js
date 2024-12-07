@@ -1,1 +1,5 @@
-console.log('Happy developing ✨')
+import { TimeTrackersProvider } from './src/provider/TimeTrackersProvider';
+
+export default {
+  TimeTrackersProvider
+}
