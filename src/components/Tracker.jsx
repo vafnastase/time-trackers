@@ -1,8 +1,7 @@
-export const Tracker = ({tracker}, props) => {
-  console.log(tracker);
+export const Tracker = ({tracker, children, ...props}) => {
   return (
     <div {...props}>
-      {props.children}
+      {children}
     </div>
   );
 }

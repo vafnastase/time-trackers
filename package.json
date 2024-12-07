@@ -1,14 +1,16 @@
 {
   "name": "time-trackers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a time tracking tool for your react app.",
   "main": "index.js",
   "repository": "https://github.com/vafnastase/time-trackers.git",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd dev && npm run dev"
   },
   "private": false,
   "dependencies": {
-    "react": "^19.0.0"
+    "react": "^19.0.0",
+    "uuid": "^11.0.3"
   }
 }

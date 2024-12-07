@@ -1,2 +1,7 @@
 .idea/*
 node_modules/*
+
+dev/node_modules/*
+dev/dist/*
+
+dist/*

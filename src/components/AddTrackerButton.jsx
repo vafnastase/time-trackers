@@ -1,13 +1,12 @@
 import { useTimeTrackers } from '../provider/TimeTrackersProvider';
 
-export const AddTrackerButton = (props) => {
+export const AddTrackerButton = ({custom, children, ...props}) => {
   const { addTracker } = useTimeTrackers();
-  
   return (
     <button
-      onClick={addTracker}
+      onClick={() => addTracker(custom)}
       {...props}>
-      {props.children}
+      {children}
     </button>
   );
 }
