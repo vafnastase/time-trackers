@@ -1,11 +1,10 @@
 {
-  "name": "@gnhub/time-trackers",
+  "name": "gnhub-time-trackers",
   "version": "1.0.0",
-  "description": "This is a time tracking tool for your react app.",
+  "description": "Add time trackers to your projects and start building your own time tracking app.",
   "main": "index.js",
   "repository": "https://github.com/vafnastase/time-trackers.git",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "cd dev && npm run dev"
   },
   "private": false,
