@@ -7,6 +7,15 @@
   "scripts": {
     "dev": "cd dev && npm run dev"
   },
+  "keywords": [
+    "time",
+    "tracker",
+    "time-tracker",
+    "time-tracking",
+    "time-tracking-app",
+    "time-tracking-tool",
+    "react-time-tracker",
+  ],
   "private": false,
   "dependencies": {
     "react": "^19.0.0",
